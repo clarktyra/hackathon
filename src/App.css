@@ -1,0 +1,66 @@
+.App {
+  text-align: left;
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 80px;
+}
+
+.App{
+  background-color: #229;
+  height: 6000px;
+  padding: 20px;
+  color: pink;
+}
+
+body {
+  background-color: grey
+}
+
+h1 {
+  color: white;
+  text-align: center;
+  font-size: 50px;
+
+}
+
+header {
+  background-color: darkslategrey;
+font-family: 'Lucida Sans'; 
+font-style: italic;
+}
+
+button {
+  color:white;
+  background-color: darkslategrey;
+  font-size: 20px;
+  border-color: white;
+  border-style: dotted;
+}
+
+
+poetry {
+  color:white
+
+}
+
+.quoteQuote {
+  font-size: 22px
+}
+
+.App-title {
+  font-size: em;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+
+
+
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
